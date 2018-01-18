@@ -1,0 +1,2 @@
+/Users/katryo/work/gtest-trial4/CMakeFiles/gtest.dir
+/Users/katryo/work/gtest-trial4/CMakeFiles/gtest_main.dir
